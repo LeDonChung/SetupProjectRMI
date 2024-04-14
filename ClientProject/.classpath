@@ -37,6 +37,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/RMIProjectEclipse/ClientProject/libs/server.jar"/>
+	<classpathentry kind="lib" path="D:/SetupProjectRMI/ClientProject/libs/server.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

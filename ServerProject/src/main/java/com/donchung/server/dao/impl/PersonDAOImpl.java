@@ -26,4 +26,14 @@ public class PersonDAOImpl extends UnicastRemoteObject implements PersonDAO  {
 			return em.createQuery("SELECT p FROM Person p", Person.class).getResultList();
 		}
 	}
+
+	@Override
+	public Person save(Person person) {
+		try (var em = AppUtils.getEntityManager()) {
+			em.getTransaction().begin();
+			em.persist(person);
+			em.getTransaction().commit();
+			return person;
+		}
+	}
 }
