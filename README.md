@@ -47,3 +47,8 @@
 		System.out.println(customerDAO.getNumberCustomerByState());
 	}
 
+
+# Cách chọn test để chạy
+![image](https://github.com/LeDonChung/SetupProjectRMI/assets/105205800/9910de65-503f-462b-9155-001179e9d8e8)
+![image](https://github.com/LeDonChung/SetupProjectRMI/assets/105205800/83031b40-54a5-451b-96b8-6d50845805df)
+
