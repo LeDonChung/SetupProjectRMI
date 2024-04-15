@@ -1,4 +1,5 @@
-# Những thứ cần cài khi dùng eclipse
+# Những thứ cần cài khi dùng eclipse: lombox: https://projectlombok.org/p2
+
 ![image](https://github.com/LeDonChung/SetupProjectRMI/assets/105205800/30577df0-f6e9-4e34-850c-fe4b6443fb0a)
 ![image](https://github.com/LeDonChung/SetupProjectRMI/assets/105205800/b63fc477-92b1-454f-9abe-da439a4e1a6e)
 ![image](https://github.com/LeDonChung/SetupProjectRMI/assets/105205800/358f51c4-6aef-4898-8557-4d53df3eee01)
